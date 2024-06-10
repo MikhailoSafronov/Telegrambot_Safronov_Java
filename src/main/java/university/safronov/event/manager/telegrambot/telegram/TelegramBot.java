@@ -1,4 +1,4 @@
-package school.sorokin.event.manager.telegrambot.telegram;
+package university.safronov.event.manager.telegrambot.telegram;
 
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
@@ -9,7 +9,7 @@ import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import school.sorokin.event.manager.telegrambot.telegram.message.TelegramUpdateMessageHandler;
+import university.safronov.event.manager.telegrambot.telegram.message.TelegramUpdateMessageHandler;
 
 @Slf4j
 @Component

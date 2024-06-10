@@ -1,11 +1,11 @@
-package school.sorokin.event.manager.telegrambot.telegram;
+package university.safronov.event.manager.telegrambot.telegram;
 
 import lombok.SneakyThrows;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
-import school.sorokin.event.manager.telegrambot.telegram.TelegramBot;
+import university.safronov.event.manager.telegrambot.telegram.TelegramBot;
 
 @Configuration
 public class TelegramBotConfiguration {

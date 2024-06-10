@@ -1,11 +1,11 @@
-package school.sorokin.event.manager.telegrambot.openai;
+package university.safronov.event.manager.telegrambot.openai;
 
 import jakarta.annotation.Nonnull;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import school.sorokin.event.manager.telegrambot.openai.api.ChatCompletionRequest;
-import school.sorokin.event.manager.telegrambot.openai.api.Message;
-import school.sorokin.event.manager.telegrambot.openai.api.OpenAIClient;
+import university.safronov.event.manager.telegrambot.openai.api.ChatCompletionRequest;
+import university.safronov.event.manager.telegrambot.openai.api.Message;
+import university.safronov.event.manager.telegrambot.openai.api.OpenAIClient;
 
 @Service
 @AllArgsConstructor

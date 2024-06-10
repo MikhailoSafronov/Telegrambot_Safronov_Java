@@ -1,4 +1,4 @@
-package school.sorokin.event.manager.telegrambot.command;
+package university.safronov.event.manager.telegrambot.command;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -8,7 +8,7 @@
         <version>3.2.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>school.sorokin.event.manager</groupId>
+    <groupId>university.safronov.event.manager</groupId>
     <artifactId>telegram-bot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>telegram-bot</name>

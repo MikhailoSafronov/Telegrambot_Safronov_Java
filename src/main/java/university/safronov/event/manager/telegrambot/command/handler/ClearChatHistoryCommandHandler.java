@@ -1,4 +1,4 @@
-package school.sorokin.event.manager.telegrambot.command.handler;
+package university.safronov.event.manager.telegrambot.command.handler;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
@@ -6,9 +6,9 @@ import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Message;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import school.sorokin.event.manager.telegrambot.command.TelegramCommandHandler;
-import school.sorokin.event.manager.telegrambot.command.TelegramCommands;
-import school.sorokin.event.manager.telegrambot.openai.ChatGptHistoryService;
+import university.safronov.event.manager.telegrambot.command.TelegramCommandHandler;
+import university.safronov.event.manager.telegrambot.command.TelegramCommands;
+import university.safronov.event.manager.telegrambot.openai.ChatGptHistoryService;
 
 @Component
 @AllArgsConstructor

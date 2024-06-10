@@ -1,4 +1,4 @@
-package school.sorokin.event.manager.telegrambot;
+package university.safronov.event.manager.telegrambot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

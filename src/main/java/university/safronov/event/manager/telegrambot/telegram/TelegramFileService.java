@@ -1,4 +1,4 @@
-package school.sorokin.event.manager.telegrambot.telegram;
+package university.safronov.event.manager.telegrambot.telegram;
 
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

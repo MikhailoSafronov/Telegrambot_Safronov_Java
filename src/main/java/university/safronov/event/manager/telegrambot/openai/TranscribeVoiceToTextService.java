@@ -1,9 +1,9 @@
-package school.sorokin.event.manager.telegrambot.openai;
+package university.safronov.event.manager.telegrambot.openai;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import school.sorokin.event.manager.telegrambot.openai.api.CreateTranscriptionRequest;
-import school.sorokin.event.manager.telegrambot.openai.api.OpenAIClient;
+import university.safronov.event.manager.telegrambot.openai.api.CreateTranscriptionRequest;
+import university.safronov.event.manager.telegrambot.openai.api.OpenAIClient;
 
 import java.io.File;
 

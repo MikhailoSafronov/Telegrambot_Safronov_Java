@@ -1,8 +1,8 @@
-package school.sorokin.event.manager.telegrambot.openai;
+package university.safronov.event.manager.telegrambot.openai;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import school.sorokin.event.manager.telegrambot.openai.api.Message;
+import university.safronov.event.manager.telegrambot.openai.api.Message;
 
 import java.util.ArrayList;
 import java.util.Map;
