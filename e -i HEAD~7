@@ -1,0 +1,42 @@
+[33mcommit 259f38eef40b3844e966735b9777109a1d739300[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: MikhailoSafronov <mishasafronov1@gmail.com>
+Date:   Mon Jun 10 14:41:06 2024 +0300
+
+    another commit
+
+[33mcommit 81b4d22a2a33892507db12717806a6a01523f54c[m
+Author: MikhailoSafronov <mishasafronov1@gmail.com>
+Date:   Mon Jun 10 14:15:30 2024 +0300
+
+    first commit
+
+[33mcommit 26b42e108af8f2b812ec38afd59a55dbb184e5b2[m
+Author: Pavel Sorokin <84656815+psorokin02@users.noreply.github.com>
+Date:   Thu May 9 17:32:05 2024 +0300
+
+    Create README.md
+
+[33mcommit a51c396faacfaecc9c84025e5c4ee10d48948921[m
+Author: pavelsorokin <psorokin59@gmail.com>
+Date:   Sat Mar 16 15:07:46 2024 +0300
+
+    Добавлен парсинг сообщений в markdown
+
+[33mcommit fdcfaee5a0ce8262fbfedf6b386166123b6e52d6[m
+Author: pavelsorokin <psorokin59@gmail.com>
+Date:   Sat Mar 2 15:56:50 2024 +0300
+
+    Добавил логирования
+    Сменил токен openapi
+
+[33mcommit bbd1aa26fc24e509cb0e5ee4073734394f59256b[m
+Author: pavelsorokin <psorokin59@gmail.com>
+Date:   Sat Mar 2 13:07:58 2024 +0300
+
+    add logging when processing message from user
+
+[33mcommit 3572bc1f15f1fd02c29e80ff6a20eccbaacca18a[m
+Author: pavelsorokin <psorokin59@gmail.com>
+Date:   Sat Mar 2 11:36:14 2024 +0300
+
+    init commit
